@@ -1,5 +1,5 @@
 <html>
-<#--<#include "../common/header.ftl">-->
+<#include "../common/header.ftl">
 <head>
     <meta charset="utf-8">
     <title>订单详情</title>
@@ -10,8 +10,8 @@
 <body>
 <div id="wrapper" class="toggled">
 
-    <#--&lt;#&ndash;边栏sidebar&ndash;&gt;-->
-    <#--<#include "../common/nav.ftl">-->
+    <#--边栏sidebar-->
+    <#include "../common/nav.ftl">
 
 
     <#--主要内容content-->
